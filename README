@@ -1,0 +1,7 @@
+To run MyLightsOut, run from a terminal: python lights.py 
+
+Enter the size of the board and play.
+
+Note: I have not implemented error checking on user input so if you enter a
+noninteger or an integer out of the range of the board size, the program
+will crash.
